@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("illusion_image2.png");
+  cursor: url("smiley_face.png"),auto;
+}
+canvas {
+  display: block;
+}
